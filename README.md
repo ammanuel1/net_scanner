@@ -5,7 +5,7 @@ To Run application:
 
 1.) Download both files, Run using ./run.sh 
       - if unable to run using above command...
-          - enter the command $ chmod +x job.sh into terminal while in the same directory
+          - enter the command $ chmod +x run.sh into terminal while in the same directory
           - then the command ./run.sh should prompt the program to begin
 
  2.) Once open
