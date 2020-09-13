@@ -1,5 +1,5 @@
 # net_scanner
-Simple python script that detects devices that are connected on a local network using IP addresses.
+Simple python script that sends packets to IP addresses on a local network. Devices that are connected on the local network will return connectivity.
 
 To Run application:
 
